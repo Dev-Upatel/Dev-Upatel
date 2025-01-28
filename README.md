@@ -1,6 +1,6 @@
 Hi there! 👋
 About Me 🌟
-Name: Utkarsh Patel
+Utkarsh Patel
 
 Passions:
 🌟 Beginner in programming and tech exploration
